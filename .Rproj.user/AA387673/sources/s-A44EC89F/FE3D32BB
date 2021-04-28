@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619638510634.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FE3D32BB",
+    "lastKnownWriteTime" : 1619638520,
+    "last_content_update" : 1619639184071,
+    "path" : "~/R/data-cleaning/Week3.R",
+    "project_path" : "Week3.R",
+    "properties" : {
+        "cursorPosition" : "3,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

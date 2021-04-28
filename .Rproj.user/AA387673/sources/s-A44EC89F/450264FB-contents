@@ -124,17 +124,3 @@ setkey(DT1,x)
 setkey(DT2,x)
 merge(DT1,DT2)
 
-
-#################### 6 MySQL ###############################
-library(DBI)
-if (!require(odbc))  install.packages('odbc')
-library(odbc)
-if (!require(RMySQL))  install.packages('RMySQL')
-library(RMySQL) 
-drv <- dbDriver("MySQL")
-
-ucsDB<-dbConnect(drv, user='genome', host="genome-mysql.cse.ucsc.edu")
-results<-dbGetQuery(ucsDB, "show databases;"); dbDisconnect(ucsDB);
-results
-getwd()
-
