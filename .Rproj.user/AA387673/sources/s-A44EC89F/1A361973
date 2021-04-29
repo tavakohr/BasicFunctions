@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619718515814.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A361973",
+    "lastKnownWriteTime" : 1619723164,
+    "last_content_update" : 1619723164037,
+    "path" : "~/R/data-cleaning/Survival.Analysis.r",
+    "project_path" : "Survival.Analysis.r",
+    "properties" : {
+        "cursorPosition" : "22,19",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
