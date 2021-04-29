@@ -36,3 +36,9 @@ affMisSmall<-fetch(query, n=10); dbClearResult(query)
 
 dim(affMisSmall)
 dbDisconnect(hg19)
+
+
+############### 2  HDF5 #######################
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+BiocManager::install("rhdf5")

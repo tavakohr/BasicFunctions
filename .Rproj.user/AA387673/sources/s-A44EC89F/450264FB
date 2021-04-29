@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "909150380",
+    "hash" : "0",
     "id" : "450264FB",
     "lastKnownWriteTime" : 1619637751,
     "last_content_update" : 1619637751271,
     "path" : "~/R/data-cleaning/Week1.R",
     "project_path" : "Week1.R",
     "properties" : {
-        "cursorPosition" : "126,0",
-        "scrollLine" : "100",
+        "cursorPosition" : "109,14",
+        "scrollLine" : "95",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
